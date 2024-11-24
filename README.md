@@ -1,6 +1,7 @@
 # Kolsan-web-sitesi
 
-*BASİT BİR MAĞAZA TANITIM SİTESİ*\n
+*BASİT BİR MAĞAZA TANITIM SİTESİ*
+
 *KOLSAN adında bir sandalye alım satımı yapan bir mağazanın web sitesi*
 
 ![indir](https://github.com/user-attachments/assets/5dfc4f4c-3ffd-449f-8aaf-6eec5c1bf396)
